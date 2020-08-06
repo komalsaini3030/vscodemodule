@@ -17,6 +17,7 @@ import { Component, OnInit } from '@angular/core';
     ul{list-style-type:none},
 
 <p>Hello how are you <p>
+<h1> how are you >h1>
 
     `
     ]
